@@ -1,8 +1,10 @@
 import React from "react";
-function user1(){
+function User1(){
     return (
-        <h1>第一个界面</h1>
+        <div >
+            <h1>第一个界面</h1>
+        </div>
     )
 }
 
-export default user1;
+export default User1;

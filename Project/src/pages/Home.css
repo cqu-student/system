@@ -123,7 +123,7 @@
     border-radius:10px;
 }
 
-.choose button[type="regist"]
+.choose button[type="button"]
 {
     background: transparent;
     position: absolute;
@@ -159,6 +159,6 @@ input[type=submit]:hover{
     background-color: #45a049;
 }
 
-button[type=regist]:hover{
+button[type=button]:hover{
     background-color: #45a049;
 }
