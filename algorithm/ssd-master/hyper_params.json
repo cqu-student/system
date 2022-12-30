@@ -1,0 +1,10 @@
+{
+    "Comments"          :   ["Modify only if you know what are you upto"],
+    "configfile"       	:   "./configs/ssd512_voc0712.yaml",
+    "ImgDir"         	:   "./demo",
+    "OutDir"        	:   "./out",
+    "weight"      		:   "./weight/ssd512_voc0712.pth",
+    "iou"     			:   0.5,
+    "score"  			:   0.6,
+    "SSD_Type"          :   "voc"
+}
